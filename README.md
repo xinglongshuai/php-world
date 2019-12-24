@@ -1,2 +1,6 @@
 # php-world
-php word
+php world
+
+<?php
+echo phpinfo();
+
